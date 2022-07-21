@@ -10,7 +10,7 @@ The project is a timer and to-do list web application, using Javascript, Python,
 ## SETUP
 Run these commands to start the project
 ```
-$ ../cd fproject
+$ ../cd octopus-the-timer-app
 $ . venv/bin/activate
 $ export FLASK_APP=application.py
 $ flask run
